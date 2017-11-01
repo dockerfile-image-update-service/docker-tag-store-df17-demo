@@ -1,6 +1,6 @@
 {
   "images": {
     "afalko/alpine": "6",
-    "afalko/alpine-java": "2"
+    "afalko/alpine-java": "4"
   }
 }
